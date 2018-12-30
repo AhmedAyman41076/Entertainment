@@ -1,0 +1,140 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+      background-color: #3d3d3d;
+}
+ul {
+    margin: 0;
+    padding: 5px 0px 5px 0px;
+    overflow: hidden;
+    background-color: #3d3d3d;
+}
+td{
+    padding: 0px;
+    margin: 0px;
+}
+.esv{
+    width: 260px;
+    height: 50px;
+    float: left;
+}.subnav{
+        font-size: 10px;
+}
+.subul{
+    height: 40px;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    font-size: 10px;
+    background-color: #ea7231;
+}
+li {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    float: right;
+    display: block;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px 15px;
+    text-decoration: none;
+}
+/* Change the link color to #111 (black) on hover */
+li:hover{
+    background-color: #474747; 
+}
+.p5{
+    margin-right: 100px;
+}
+.im{
+    width: 100%;
+}
+.mn{
+    display: inline-block;
+    width: 100%;
+    background-color: #efefef;
+}
+.cnt{
+    padding: 5%;
+    width: 100%;
+}
+.frm{
+}
+.dsp{
+    display: block;
+}
+input{
+   display: block; 
+}
+input[type=text], [type=email], select {
+    width: 60%;
+    padding: 14px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#ms{
+    height: 100px;
+    width: 60%;
+    padding: 1% 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; 
+}
+.h11{
+    font-family: Helvetica, sans-serif;
+    font-size: 34px;
+    padding: 5px;
+}
+img{
+    width: 100%;
+}
+.ltr{
+    float: right;
+    direction: ltr;
+}
+h3{
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+}
+.topclr, .midclr, .btnclr{
+    font-family: American Typewriter, serif;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+span{
+    font-family: Helvetica, sans-serif;
+}
+p{
+    font-family: American Typewriter, serif;
+    font-size: 20px;
+}
+.vl {
+    border-left: 1px solid green;
+    height: 500px;
+}

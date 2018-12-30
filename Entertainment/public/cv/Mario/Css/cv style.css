@@ -1,0 +1,43 @@
+body {
+    background-color: #333333;
+    border-color: chartreuse;
+}
+#container {
+    background-color:cornsilk;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    border-style: solid;
+    outline-style: double;
+    outline-color: brown;
+}
+#img{
+    
+    margin-left: 90px;
+    
+}
+#tr1{
+    background-color: cornsilk;
+    
+}
+table{
+    font-family: cursive;
+    border-style: inset;
+    padding: inherit;
+}
+#h{
+    background-color: darkred;
+    color: burlywood;
+}
+ul,ol{
+    font-size: 20px;
+}
+#footer{
+    
+     clear: both;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}

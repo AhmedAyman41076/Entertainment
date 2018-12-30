@@ -1,0 +1,38 @@
+body {
+    
+    background-color: antiquewhite;
+    border-bottom-style: solid;
+}
+
+h2{
+    color:darkblue;
+    font-display: block; 
+    
+}
+h3{
+ color:deepskyblue  ;
+}
+#img {
+
+    margin-left: 90px;
+
+}
+
+
+
+
+h1 {
+    background-color: darkred;
+    color: burlywood;
+    font-family: inherit;
+}
+
+ul {
+    font-size: 20px;
+color: darkred
+}
+
+p{
+    text-decoration-style: wavy;
+    color: dimgrey;
+}
